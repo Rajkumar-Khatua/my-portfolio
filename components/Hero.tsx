@@ -32,7 +32,11 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words=""
+            words="I'm Full Stack Developer!"
+          />
+          <TextGenerateEffect
+            className="text-center"
+            words="I'm a Full Stack Developer with passion for building web applications. I specialize in JavaScript, React, Node.js, and MongoDB. I'm passionate about building scalable and maintainable software. I'm always looking for new challenges and opportunities to learn and grow. I'm a team player and enjoy working with others to solve complex problems. I'm excited to work with you!"
           />
         </div>
       </div>
